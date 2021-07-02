@@ -1,0 +1,8 @@
+{
+  "short_name": "Typescript Todos",
+  "name": "Typescript Todos",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
