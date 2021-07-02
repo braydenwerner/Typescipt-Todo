@@ -2,4 +2,4 @@
 
 ### An organized todo list using React, Typescript, and Styled Components.
 
-![Todos Image](public/images/todos.png)
+![Todos Image](public/images/todolist2.png)
