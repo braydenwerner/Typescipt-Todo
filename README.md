@@ -5,4 +5,4 @@
 - Complete TypeScript Typings
 - Todos are saved in local storage
 
-![Todos Image](public/images/todos3.png)
+![Todos Image](public/images/todos.png)
